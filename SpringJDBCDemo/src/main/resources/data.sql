@@ -1,0 +1,1 @@
+insert into student (rollNo, name, marks) values (100, 'Alice', 90);
